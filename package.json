@@ -21,6 +21,7 @@
   },
   "devDependencies": {
     "@biomejs/biome": "2.4.2",
+    "@gravity-ui/icons": "^2.22.0",
     "@tailwindcss/postcss": "^4",
     "babel-plugin-react-compiler": "1.0.0",
     "tailwindcss": "^4"
