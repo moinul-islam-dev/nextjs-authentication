@@ -1,15 +1,2 @@
 @import "tailwindcss";
 @import "@heroui/styles";
-
-:root {
-  --accent: #1ed760;
-  --accent-foreground: #090504;
-
-  --default: #272827;
-  --default-foreground: #090504;
-}
-
-/* HeroUI input fields */ 
-[data-slot="input"] { 
-    background-color: #171917; 
-}
